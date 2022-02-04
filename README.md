@@ -14,10 +14,10 @@ Find out the average marks of one of the course Physics based on online applicat
 ## Summary of the results
 * The following scattered graph shows the marks in physics of all applications
 
-![Marks obtained by students in physics](Marks.png))
+![Marks obtained by students in physics](Marks.png)
 
 *   The following  graph shows the top 10 average marks in physics by application numbers.
 
-![Top 10 student marks](Top10.png))
+![Top 10 student marks](Top10.png)
 
  From the above agraph we can see that top physics marks obtaind students with different application numbers.
