@@ -17,10 +17,11 @@ Find out the average marks of one of the course Physics based on online applicat
 ![Marks obtained by students in physics](marks.png)
 
     By seeing the graph , we can predict the following results:
+    
     - In the graph we can see that one of the candidate got highest marks 500 among other students.
     - second highest scorer close to 300 points.
     - remaining candidates got same average points.
-    
+
 *   The following  graph shows the top 10 average marks in physics by application numbers.
 
 ![Top 10 student marks](top10.png)
